@@ -11,7 +11,7 @@ The key economic indicators analysed include:
 * Gross Domestic Product (GDP)
 * Reserves
 * Oil prices
-* Natural gas prices, and
+* Natural gas prices
 * Commodity prices
 </b>
   
