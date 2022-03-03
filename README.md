@@ -82,3 +82,17 @@ TTF Gas has skyrocketted <b>910%</b>, while UK Gas has jumped <b>856%</b> year-o
 <p align="center">
   <img src="https://github.com/mnperic/russia-ukraine-indicators/blob/main/Images/commodity_prices.png" alt="commodity_prices"/>
 </p>
+
+## References
+
+Data World Bank, 2022, Russian total reserve figures, https://data.worldbank.org/indicator/FI.RES.TOTL.CD?end=2020&locations=RU&start=2010&view=chart<br></br>
+Data World Bank, 2022, Ukrainian total reserve figures, https://data.worldbank.org/indicator/FI.RES.TOTL.CD?end=2020&locations=UA&start=2010&view=chart<br></br>
+Data World Bank, 2022, Russia GDP figures, https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&locations=RU&start=2010<br></br>
+Data World Bank, 2022, Ukraine GDP figures, https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&locations=UA&start=2010<br></br>
+OilPrice.com, 2022, ESPO oil price, https://oilprice.com/oil-price-charts/#ESPO<br></br>
+OilPrice.com, 2022, Sokol oil price, https://oilprice.com/oil-price-charts/#Sokol<br></br>
+Statista, 2022, Russian monthly inflation, https://www.statista.com/statistics/276323/monthly-inflation-rate-in-russia/<br></br>
+Statista, 2022, Russian inflation tables, https://www.statbureau.org/en/russia/inflation-tables<br></br>
+Trading Economics, 2022, Dutch TTF gas prices, https://tradingeconomics.com/russia/gasoline-prices<br></br>
+Trading Economics, 2022, NYMEX gas prices, https://tradingeconomics.com/commodity/natural-gas<br></br>
+Trading Econoimcs, 2022, Commodity prices, https://tradingeconomics.com/commodities
